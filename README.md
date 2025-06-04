@@ -57,7 +57,7 @@ risk_metrics = generate_risk_report(max_drawdowns, final_values, "PETR4.SA", "Bu
 - **Cenários de Risco**: Percentis P50, P75, P90, P95, P99
 
 #### Análise Histórica - Evolução da Carteira
-![Historical Analysis](https://github.com/user-attachments/assets/your-image-2-url)
+![Historical Analysis](https://github.com/joaoal1998/Drawdown-previsto-com-Monte-Carlo/blob/main/evolucao_carteira.png)
 
 - **Curva de Equity**: Evolução do valor da carteira ao longo do tempo
 - **Drawdown Histórico**: Períodos de perdas e recuperação
