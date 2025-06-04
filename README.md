@@ -49,7 +49,7 @@ risk_metrics = generate_risk_report(max_drawdowns, final_values, "PETR4.SA", "Bu
 ### 1. Gráficos Gerados
 
 #### Análise Monte Carlo - Drawdowns Futuros
-![Monte Carlo Analysis](https://github.com/user-attachments/assets/your-image-1-url)
+![Monte Carlo Analysis]([https://github.com/user-attachments/assets/your-image-1-url](https://github.com/joaoal1998/Drawdown-previsto-com-Monte-Carlo/blob/main/drawdown_futuro.png))
 
 - **Distribuição dos Drawdowns**: Histograma mostrando frequência dos drawdowns simulados
 - **Box Plot**: Visualização dos quartis e outliers
